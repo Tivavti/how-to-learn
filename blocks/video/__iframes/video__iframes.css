@@ -1,0 +1,8 @@
+.video__ifames {
+  width: 1050px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+}
