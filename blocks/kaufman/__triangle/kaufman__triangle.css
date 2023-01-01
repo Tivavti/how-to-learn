@@ -7,4 +7,5 @@
   background-repeat: no-repeat;
   position: absolute;
   z-index: 0;
+  background-size: contain;
 }
